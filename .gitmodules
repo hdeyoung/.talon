@@ -1,0 +1,3 @@
+[submodule "rango-talon"]
+	path = rango-talon
+	url = git@github.com:david-tejada/rango-talon.git
